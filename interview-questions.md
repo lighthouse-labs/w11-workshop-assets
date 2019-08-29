@@ -1,7 +1,5 @@
 # Interview Questions
 
-
-
 1. Assuming the following basic  table structure
 
     ```sql
@@ -9,7 +7,7 @@
     Keywords (KeyWordID, KeyWord)
     DocumentKeywords (DocID,KeywordID)
     ```
-    
+
     Write a query to return the following:
     ```
     Part 1: Documents with a DocDate after 4/1/1995  
@@ -17,7 +15,6 @@
     Part 3: Documents that contain the either the keyword "Blue" or "Yellow"
     Part 4: Documents that contain the both the keywords "Blue" and "Yellow"
     ```
-
 
 2. Given an array of distinct integer values, count the nuber of pairs of integers that have difference k. For example given the array `[1, 7, 5, 9, 2, 12, 3]` and the difference `k = 2`, there are four pairs with difference 2: `(1,3), (3, 5), (5, 7), (7, 9)`
 
