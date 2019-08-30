@@ -33,3 +33,7 @@ The final project needs to work in the latest stable versions of Chrome and Safa
  Create a web page that shows a photo in a lightbox view, with the ability to move to the next/previous photos and display the photo title. You can use any public API that returns photos (i.e. Flickr, Instagram, Google Image Search, Yahoo Image Search)
 
 It should run without errors in the latest versions of Chrome, Safari, Firefox and IE.
+
+### Social Media
+
+Use any language/framework/library they choose. You must fetch responses from three separate (mocked) social networks and return them in a single JSON payload in response to an HTTP call.
